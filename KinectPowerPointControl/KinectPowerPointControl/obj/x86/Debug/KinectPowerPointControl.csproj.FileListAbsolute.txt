@@ -1,0 +1,7 @@
+C:\Users\lasthope\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\MainWindow.baml
+C:\Users\lasthope\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\MainWindow.g.cs
+C:\Users\lasthope\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\App.g.cs
+C:\Users\lasthope\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl_MarkupCompile.cache
+C:\Users\lasthope\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.g.resources
+C:\Users\lasthope\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.Properties.Resources.resources
+C:\Users\lasthope\Desktop\KinectPowerPointControl.srcbin\KinectPowerPointControl\obj\x86\Debug\KinectPowerPointControl.csproj.GenerateResource.Cache
